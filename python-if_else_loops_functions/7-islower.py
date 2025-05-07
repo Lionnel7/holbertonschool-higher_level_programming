@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-for i in range (0;99)
 def islower(c):
-if ord('c') <= ord(caractere) <= ord('z'):
-    print(caractere.islower()) 
-else:
-    print(caractere.islower())
+    if ord(c) >= 97 and ord(c) <= 122:
+        return True
+    else:
+        return False
