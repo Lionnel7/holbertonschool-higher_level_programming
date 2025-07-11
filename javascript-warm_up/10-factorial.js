@@ -36,4 +36,4 @@ const result = factorial(number);
 
 // Print the result to the console.
 // This satisfies the constraint of using console.log() for all output.
-console.log(result);
+console.log(result)
